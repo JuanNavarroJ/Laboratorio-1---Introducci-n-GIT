@@ -1,5 +1,5 @@
 ----------------------- feerratas.txt -------------------
-FE DE ERRATAS
+FE DE ERRATAS.
 
 
 * El término de la pagina por lo general 15 es impreciso.
