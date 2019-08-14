@@ -10,7 +10,7 @@ Pertenezco a la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.es
    - TSOR
    - FCFI
 ## PLAN DE ESTUDIO #
-Mi plan de estudio actualmente es el número *14* y es el siguiente
+\. Mi plan de estudio actualmente es el número *14* y es el siguiente
 ![Plan de Estudio](https://i.ibb.co/m0S6jLt/Plan-Estudio.png)
 
 # ACERCA DE MI #
