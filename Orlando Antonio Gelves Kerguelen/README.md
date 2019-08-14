@@ -8,4 +8,4 @@
    - FCFI
 
 Mi plan de estudio actualmente es el número *14* y es el siguiente
-![](planEstudio.png)
+![Plan de Estudio](https://i.ibb.co/m0S6jLt/Plan-Estudio.png)
