@@ -1,5 +1,5 @@
 # INFORMACION PERSONAL #
-Mi nombre es **Orlando Antonio Gelves Kerguelen**
+Mi nombre es **Orlando Antonio Gelves Kerguelen**, tengo 20 años y actualmente curso 7 semestre de Ingeniería de Sistemas.
 
 # UNIVERSIDAD #
 Pertenezco a la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.escuelaing.edu.co/es/) desde el 2017
@@ -9,10 +9,12 @@ Pertenezco a la [Escuela Colombiana de Ingeniería Julio Garavito](https://www.es
    - TPRO
    - TSOR
    - FCFI
+## PLAN DE ESTUDIO #
 Mi plan de estudio actualmente es el número *14* y es el siguiente
 ![Plan de Estudio](https://i.ibb.co/m0S6jLt/Plan-Estudio.png)
 
-Uno de mis fragmentos de codigos favoritos es el algoritmo de Fibonacci recursivamente, lo adjunto escrito en Python
+# ACERCA DE MI #
+Uno de mis fragmentos de codigos favoritos es el algoritmo de *Fibonacci recursivamente*, lo adjunto escrito en *Python*
 
 ```
 def fib(n):
