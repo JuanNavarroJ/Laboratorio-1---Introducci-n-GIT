@@ -33,7 +33,8 @@ En el semestre actual estoy cursando 5 asignaturas las cuales son:
 
 Algoritmos dfs y bfs **Python**:
 
-``` from collections import deque
+```
+from collections import deque
 def bfs(i,n):
 	isvisited=[False]*n
 	d=deque([i])
@@ -60,4 +61,18 @@ def main():
     isvisited=[False]*len(lady)
     dfs(0)
     print(isvisited)
-main()
+main() 
+```
+![image][2]
+
+[2]: https://i.ibb.co/YcMtdvF/lab-1-parte-1-primera-mitad.png "parte 1 primera mitad"
+
+![image][3]
+
+[3]: https://i.ibb.co/JHHDmQ2/lab-1-parte-1-2da-mitad.png "parte 1 segunda mitad"
+
+![image][4]
+
+[4]: https://i.ibb.co/khFxcPC/lab1-parte-2.png "parte 2"
+
+
